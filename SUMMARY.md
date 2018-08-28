@@ -17,6 +17,7 @@
 * [编码](bian-ma.md)
   * [CloudIDE](bian-ma/cloudide.md)
 * [发布](fa-bu.md)
+  * 发布配置
   * [手动发布](fa-bu/shou-dong-fa-bu.md)
   * [自动发布](fa-bu/zi-dong-fa-bu.md)
   * [版本升级](fa-bu/ban-ben-sheng-ji.md)
