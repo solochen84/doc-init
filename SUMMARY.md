@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * [产品简介](chapter1.md)
   * [应用工厂](chapter1/ying-yong-gong-chang.md)
-  * 应用商店
+  * [应用商店](chapter1/ying-yong-shang-dian.md)
   * [CloudIDE](chapter1/cloudide.md)
 * [设计](she-ji.md)
   * [架构图设计](she-ji/jia-gou-tu-she-ji.md)
@@ -12,15 +12,15 @@
       * [绑定GitHub](bang-ding-github.md)
         * [如何在行云上绑定GitHub？](bang-ding-github/ru-he-zai-xing-yun-shang-bang-ding-github.md)
         * [使用GitHub上的代码库](bang-ding-github/ru-he-shi-yong-github-de-dai-ma-ku-ff1f.md)
-      * 绑定企业GITLAB
+      * [绑定企业GITLAB](bang-ding-qi-ye-gitlab.md)
     * [镜像组件](she-ji/jing-xiang-zu-jian.md)
     * [外部组件](she-ji/wai-bu-zu-jian.md)
     * [网页组件](she-ji/wang-ye-zu-jian.md)
 * [编码](bian-ma.md)
   * [CloudIDE](bian-ma/cloudide.md)
 * [发布](fa-bu.md)
-  * 手动发布
-  * 自动发布
+  * [手动发布](fa-bu/shou-dong-fa-bu.md)
+  * [自动发布](fa-bu/zi-dong-fa-bu.md)
   * 版本升级
 * [测试](ce-shi.md)
 * [运维](yun-wei.md)
