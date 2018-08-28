@@ -2,11 +2,8 @@
 
 * [Introduction](README.md)
 * [产品简介](chapter1.md)
-  * [应用工厂](chapter1/ying-yong-gong-chang.md)
-  * [应用商店](chapter1/ying-yong-shang-dian.md)
-  * [CloudIDE](chapter1/cloudide.md)
 * [设计](she-ji.md)
-  * [架构图设计](she-ji/jia-gou-tu-she-ji.md)
+  * [架构图设计器](she-ji/jia-gou-tu-she-ji.md)
   * [标准组件](she-ji/biao-zhun-zu-jian.md)
     * [代码组件](she-ji/dai-ma-zu-jian.md)
       * [绑定GitHub](bang-ding-github.md)
@@ -16,19 +13,20 @@
     * [镜像组件](she-ji/jing-xiang-zu-jian.md)
     * [外部组件](she-ji/wai-bu-zu-jian.md)
     * [网页组件](she-ji/wang-ye-zu-jian.md)
+  * [应用商店组件](she-ji/ying-yong-shang-dian-zu-jian.md)
 * [编码](bian-ma.md)
   * [CloudIDE](bian-ma/cloudide.md)
 * [发布](fa-bu.md)
   * [手动发布](fa-bu/shou-dong-fa-bu.md)
   * [自动发布](fa-bu/zi-dong-fa-bu.md)
-  * 版本升级
+  * [版本升级](fa-bu/ban-ben-sheng-ji.md)
 * [测试](ce-shi.md)
 * [运维](yun-wei.md)
 * [数据](shu-ju.md)
   * 数据卷操作
   * 数据卷的使用
 * [商店](shang-dian.md)
-  * 如何将应用上架到商店？
+  * [如何将应用上架到商店？](shang-dian/ru-he-jiang-ying-yong-shang-jia-dao-shang-dian-ff1f.md)
   * [从商店购买应用](shang-dian/cong-shang-dian-gou-mai-ying-yong.md)
 * [团队](tuan-dui.md)
   * [团队创建](tuan-dui-guan-li/tuan-dui-chuang-jian.md)
