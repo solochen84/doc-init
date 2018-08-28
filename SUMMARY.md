@@ -33,4 +33,9 @@
   * [团队创建](tuan-dui-guan-li/tuan-dui-chuang-jian.md)
   * [共享项目](tuan-dui-guan-li/fen-xiang-xiang-mu.md)
 * 商店
+* [项目设置](she-zhi.md)
+  * [通用设置](she-zhi/tong-yong-she-zhi.md)
+  * 项目成员管理
+  * 角色管理
+  * 环境管理
 
