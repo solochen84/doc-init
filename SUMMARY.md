@@ -3,8 +3,8 @@
 * [Introduction](README.md)
 * [First Chapter](chapter1.md)
 * [设计](she-ji.md)
-  * 架构图设计
-  * 标准组件
+  * [架构图设计](she-ji/jia-gou-tu-she-ji.md)
+  * [标准组件](she-ji/biao-zhun-zu-jian.md)
     * [代码组件](she-ji/dai-ma-zu-jian.md)
       * [什么是代码组件](shi-yao-shi-dai-ma-zu-jian.md)
       * [绑定GitHub](bang-ding-github.md)
