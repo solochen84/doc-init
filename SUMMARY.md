@@ -1,12 +1,14 @@
 # Summary
 
 * [Introduction](README.md)
-* [First Chapter](chapter1.md)
+* [产品简介](chapter1.md)
+  * [应用工厂](chapter1/ying-yong-gong-chang.md)
+  * 应用商店
+  * [CloudIDE](chapter1/cloudide.md)
 * [设计](she-ji.md)
   * [架构图设计](she-ji/jia-gou-tu-she-ji.md)
   * [标准组件](she-ji/biao-zhun-zu-jian.md)
     * [代码组件](she-ji/dai-ma-zu-jian.md)
-      * [什么是代码组件](shi-yao-shi-dai-ma-zu-jian.md)
       * [绑定GitHub](bang-ding-github.md)
         * [如何在行云上绑定GitHub？](bang-ding-github/ru-he-zai-xing-yun-shang-bang-ding-github.md)
         * [使用GitHub上的代码库](bang-ding-github/ru-he-shi-yong-github-de-dai-ma-ku-ff1f.md)
@@ -15,7 +17,7 @@
     * [外部组件](she-ji/wai-bu-zu-jian.md)
     * [网页组件](she-ji/wang-ye-zu-jian.md)
 * [编码](bian-ma.md)
-  * CloudIDE
+  * [CloudIDE](bian-ma/cloudide.md)
 * [发布](fa-bu.md)
   * 手动发布
   * 自动发布
