@@ -37,7 +37,6 @@
       * [团队创建](tuan-dui-guan-li/tuan-dui-chuang-jian.md)
       * [共享项目](tuan-dui-guan-li/fen-xiang-xiang-mu.md)
 * [应用商店](shang-dian.md)
-* [用户指南](yong-hu-zhi-nan.md)
 * [常见问题](chang-jian-wen-ti.md)
   * 如何集成第三方应用？
   * 如何集成镜像组件？
@@ -49,5 +48,5 @@
   * 如何部署应用到多云？
   * 如何自定义域名？
   * 如何使用模板快速开发应用？
-* Q&A
+* [Q&A](qanda.md)
 
