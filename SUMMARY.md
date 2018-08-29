@@ -38,4 +38,6 @@
     * [共享项目](tuan-dui-guan-li/fen-xiang-xiang-mu.md)
 * [应用商店](shang-dian.md)
 * [用户指南](yong-hu-zhi-nan.md)
+* [常见问题](chang-jian-wen-ti.md)
+  * 如何集成第三方应用？
 
