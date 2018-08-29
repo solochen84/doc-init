@@ -25,8 +25,7 @@
 * [运维](yun-wei.md)
 * [数据](shu-ju.md)
   * [什么是数据卷？](shu-ju/shi-yao-shi-shu-ju-juan-ff1f.md)
-  * [数据卷操作](shu-ju/shu-ju-juan-cao-zuo.md)
-  * 数据卷的使用
+  * [如何使用数据卷？](shu-ju/shu-ju-juan-cao-zuo.md)
 * [商店](shang-dian.md)
   * [如何将应用上架到商店？](shang-dian/ru-he-jiang-ying-yong-shang-jia-dao-shang-dian-ff1f.md)
   * [从商店购买应用](shang-dian/cong-shang-dian-gou-mai-ying-yong.md)
