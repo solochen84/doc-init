@@ -18,6 +18,9 @@
         * [外部组件](she-ji/wai-bu-zu-jian.md)
         * [网页组件](she-ji/wang-ye-zu-jian.md)
       * [应用商店组件](she-ji/ying-yong-shang-dian-zu-jian.md)
+      * 添加网络服务
+      * 设置组件参数
+      * 组件高级配置
     * [编码](bian-ma.md)
       * [CloudIDE](bian-ma/cloudide.md)
     * [发布](fa-bu.md)
