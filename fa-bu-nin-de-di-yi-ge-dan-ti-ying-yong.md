@@ -1,8 +1,6 @@
 # 从零开始构建您的第一个单体应用项目
 
-  为了让您更快地掌握行云趣码这个系统的用法以及感受到它的独特魅力，下面我们一起从零搭建一个项目（此处以一个python hello world的demo为例），从编写代码开始，到应用发布到云端，再到测试，运维。。。
-
-
+为了让您更快地掌握行云趣码这个系统的用法以及感受到它的独特魅力，下面我们一起从零搭建一个项目（此处以一个python hello world的demo为例），从编写代码开始，到应用发布到云端，再到测试，运维。。。
 
 1.编写您的代码（包括Dockerfile）
 
@@ -64,7 +62,7 @@ flask
 
 ![](/assets/import30.png)
 
-点击下一步，在Git仓库地址中填入您的github代码库的地址，也可以使用我们已为您准备好的代码：https://github.com/solochen84/ph.git，并选择技术栈为Dockerfile in source。
+点击下一步，在Git仓库地址中填入您的github代码库的地址，也可以使用我们已为您准备好的代码：[https://github.com/solochen84/ph.git，并选择技术栈为Dockerfile](https://github.com/solochen84/ph.git，并选择技术栈为Dockerfile) in source。
 
 ![](/assets/import31.png)
 
@@ -89,4 +87,6 @@ flask
 6.访问应用
 
 可在查看配置中点击域名，访问应用。
+
+![](/assets/import36.png)
 
