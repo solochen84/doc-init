@@ -52,7 +52,7 @@ requirements.txt
 flask
 ```
 
-2.将您的代码放在github上
+2.将您的代码放在github上，您也可以选择我们为您准备好的示例代码：https://github.com/solochen84/ph.git
 
 3.新建项目
 
@@ -63,8 +63,6 @@ flask
 在弹出框中选择“Blank”模板，下一步，填入自定义的项目名称和项目描述，点击完成进入架构图设计界面。
 
 ![](/assets/import38.png)
-
-
 
 4.设计架构图
 
@@ -98,5 +96,7 @@ flask
 
 可在查看配置中点击域名，访问应用。
 
-![](/assets/import36.png)
+![](/assets/import36.png)如果您事先写好了代码，那么仅需几分钟，您的应用就可以在行云上跑起来。
+
+您也可以选择使用行云内置的CloudIDE来编写您的代码，具体的使用方法见[CloudIDE](/bian-ma/cloudide.md)。
 
