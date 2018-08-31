@@ -44,9 +44,8 @@
     * [团队](tuan-dui.md)
       * [团队创建](tuan-dui-guan-li/tuan-dui-chuang-jian.md)
       * [共享项目](tuan-dui-guan-li/fen-xiang-xiang-mu.md)
-* [应用商店](shang-dian.md)
 * [常见问题](chang-jian-wen-ti.md)
-  * 如何集成第三方应用？
+  * [如何集成第三方应用？](chang-jian-wen-ti/ru-he-ji-cheng-di-san-fang-ying-yong-ff1f.md)
   * 如何集成镜像组件？
   * 如何设置自动发布？
   * 如何将数据持久化？
@@ -57,4 +56,5 @@
   * 如何自定义域名？
   * 如何使用模板快速开发应用？
 * [Q&A](qanda.md)
+* [应用商店](shang-dian.md)
 
