@@ -1,19 +1,19 @@
 # Summary
 
-* [快速开始](README.md)
-  * [发布您的第一个单体应用](fa-bu-nin-de-di-yi-ge-dan-ti-ying-yong.md)
-  * [发布您的第一个多应用项目](fa-bu-nin-de-di-yi-ge-duo-ying-yong-xiang-mu.md)
-* [产品简介](chapter1.md)
-  * 支持特性
-  * 产品架构
-  * 应用场景
-  * 基本概念
-  * 使用限制
-* [用户指南](yong-hu-zhi-nan.md)
-  * 应用工厂
-    * [设计](she-ji.md)
-      * [架构图设计器](she-ji/jia-gou-tu-she-ji.md)
-      * [标准组件](she-ji/biao-zhun-zu-jian.md)
+* [1.快速开始](README.md)
+  * [1.1发布您的第一个单体应用](fa-bu-nin-de-di-yi-ge-dan-ti-ying-yong.md)
+  * [1.2发布您的第一个多应用项目](fa-bu-nin-de-di-yi-ge-duo-ying-yong-xiang-mu.md)
+* [2.产品简介](chapter1.md)
+  * [2.1支持特性](chapter1/zhi-chi-te-xing.md)
+  * [2.2产品架构](chapter1/chan-pin-jia-gou.md)
+  * [2.3应用场景](chapter1/ying-yong-chang-jing.md)
+  * [2.4基本概念](chapter1/ji-ben-gai-nian.md)
+  * [2.5使用限制](chapter1/shi-yong-xian-zhi.md)
+* [3.用户指南](yong-hu-zhi-nan.md)
+  * [3.1应用工厂](yong-hu-zhi-nan/ying-yong-gong-chang.md)
+    * [3.1.1设计](she-ji.md)
+      * [3.1.1.1架构图设计器](she-ji/jia-gou-tu-she-ji.md)
+      * [3.1.1.2标准组件](she-ji/biao-zhun-zu-jian.md)
         * [代码组件](she-ji/dai-ma-zu-jian.md)
           * [GitHub账号支持](bang-ding-github.md)
           * [企业GitLab支持](bang-ding-qi-ye-gitlab.md)
@@ -22,39 +22,39 @@
         * [镜像组件](she-ji/jing-xiang-zu-jian.md)
         * [外部组件](she-ji/wai-bu-zu-jian.md)
         * [网页组件](she-ji/wang-ye-zu-jian.md)
-      * [应用商店组件](she-ji/ying-yong-shang-dian-zu-jian.md)
-      * 添加网络服务
-      * 设置组件参数
-      * 组件高级配置
-    * [编码](bian-ma.md)
+      * [3.1.1.3应用商店组件](she-ji/ying-yong-shang-dian-zu-jian.md)
+      * 3.1.1.4添加网络服务
+      * [3.1.1.5设置组件参数](she-ji/she-zhi-zu-jian-can-shu.md)
+      * [3.1.1.6组件高级配置](she-ji/zu-jian-gao-ji-pei-zhi.md)
+    * [3.1.2编码](bian-ma.md)
       * [CloudIDE](bian-ma/cloudide.md)
-    * [发布](fa-bu.md)
-      * [发布配置](fa-bu/fa-bu-pei-zhi.md)
-      * [手动发布](fa-bu/shou-dong-fa-bu.md)
-      * [自动发布](fa-bu/zi-dong-fa-bu.md)
-      * [版本升级](fa-bu/ban-ben-sheng-ji.md)
-    * [测试](ce-shi.md)
-    * [运维](yun-wei.md)
-    * [数据](shu-ju.md)
+    * [3.1.3发布](fa-bu.md)
+      * [3.1.3.1发布配置](fa-bu/fa-bu-pei-zhi.md)
+      * [3.1.3.2手动发布](fa-bu/shou-dong-fa-bu.md)
+      * [3.1.3.4自动发布](fa-bu/zi-dong-fa-bu.md)
+      * [3.1.3.5版本升级](fa-bu/ban-ben-sheng-ji.md)
+    * [3.1.4测试](ce-shi.md)
+    * [3.1.5运维](yun-wei.md)
+    * [3.1.6数据](shu-ju.md)
       * [什么是数据卷？](shu-ju/shi-yao-shi-shu-ju-juan-ff1f.md)
       * [如何使用数据卷？](shu-ju/shu-ju-juan-cao-zuo.md)
-    * [商店](shang-dian.md)
+    * [3.1.7商店](shang-dian.md)
       * [如何将应用上架到商店？](shang-dian/ru-he-jiang-ying-yong-shang-jia-dao-shang-dian-ff1f.md)
       * [从商店购买应用](shang-dian/cong-shang-dian-gou-mai-ying-yong.md)
-    * [团队](tuan-dui.md)
+    * [3.1.8团队](tuan-dui.md)
       * [团队创建](tuan-dui-guan-li/tuan-dui-chuang-jian.md)
       * [共享项目](tuan-dui-guan-li/fen-xiang-xiang-mu.md)
-* [常见问题](chang-jian-wen-ti.md)
-  * [如何集成第三方应用？](chang-jian-wen-ti/ru-he-ji-cheng-di-san-fang-ying-yong-ff1f.md)
-  * 如何集成镜像组件？
-  * 如何设置自动发布？
-  * 如何将数据持久化？
-  * [如何版本升级（包含数据库升级）？](chang-jian-wen-ti/ru-he-ban-ben-sheng-ji-ff08-bao-han-shu-ju-ku-sheng-ji-ff09-ff1f.md)
-  * [如何伸缩与自动伸缩？](chang-jian-wen-ti/ru-he-shen-suo-yu-zi-dong-shen-suo-ff1f.md)
-  * 如何设置监控和告警？
-  * 如何部署应用到多云？
-  * 如何自定义域名？
-  * 如何使用模板快速开发应用？
+* [4.常见问题](chang-jian-wen-ti.md)
+  * [4.1如何集成第三方应用？](chang-jian-wen-ti/ru-he-ji-cheng-di-san-fang-ying-yong-ff1f.md)
+  * [4.2如何集成镜像组件？](chang-jian-wen-ti/ru-he-ji-cheng-jing-xiang-zu-jian-ff1f.md)
+  * 4.3如何设置自动发布？
+  * [4.4如何将数据持久化？](chang-jian-wen-ti/ru-he-jiang-shu-ju-chi-jiu-hua-ff1f.md)
+  * [4.5如何版本升级（包含数据库升级）？](chang-jian-wen-ti/ru-he-ban-ben-sheng-ji-ff08-bao-han-shu-ju-ku-sheng-ji-ff09-ff1f.md)
+  * [4.6如何伸缩与自动伸缩？](chang-jian-wen-ti/ru-he-shen-suo-yu-zi-dong-shen-suo-ff1f.md)
+  * [4.7如何设置监控和告警？](chang-jian-wen-ti/ru-he-she-zhi-jian-kong-he-gao-jing-ff1f.md)
+  * [4.8如何部署应用到多云？](chang-jian-wen-ti/ru-he-bu-shu-ying-yong-dao-duo-yun-ff1f.md)
+  * [4.9如何自定义域名？](chang-jian-wen-ti/ru-he-zi-ding-yi-yu-ming-ff1f.md)
+  * [4.10如何使用模板快速开发应用？](chang-jian-wen-ti/ru-he-shi-yong-mo-ban-kuai-su-kai-fa-ying-yong-ff1f.md)
 * [Q&A](qanda.md)
 * [应用商店](shang-dian.md)
 
