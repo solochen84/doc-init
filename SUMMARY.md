@@ -23,9 +23,12 @@
         * [外部组件](she-ji/wai-bu-zu-jian.md)
         * [网页组件](she-ji/wang-ye-zu-jian.md)
       * [3.1.1.3应用商店组件](she-ji/ying-yong-shang-dian-zu-jian.md)
-      * 3.1.1.4添加网络服务
-      * [3.1.1.5设置组件参数](she-ji/she-zhi-zu-jian-can-shu.md)
-      * [3.1.1.6组件高级配置](she-ji/zu-jian-gao-ji-pei-zhi.md)
+      * [3.1.1.3组件配置](she-ji/3113zu-jian-pei-zhi.md)
+        * 添加网络服务
+        * [设置组件参数](she-ji/she-zhi-zu-jian-can-shu.md)
+        * [组件高级配置](she-ji/zu-jian-gao-ji-pei-zhi.md)
+        * 组件属性
+        * [组件参数](she-ji/shu-ru-shu-chu-can-shu.md)
     * [3.1.2编码](bian-ma.md)
       * [CloudIDE](bian-ma/cloudide.md)
     * [3.1.3发布](fa-bu.md)
@@ -37,7 +40,7 @@
     * [3.1.5运维](yun-wei.md)
     * [3.1.6数据](shu-ju.md)
       * [什么是数据卷？](shu-ju/shi-yao-shi-shu-ju-juan-ff1f.md)
-      * [如何使用数据卷？](shu-ju/shu-ju-juan-cao-zuo.md)
+      * [如何在行云上使用数据卷？](shu-ju/shu-ju-juan-cao-zuo.md)
     * [3.1.7商店](shang-dian.md)
       * [如何将应用上架到商店？](shang-dian/ru-he-jiang-ying-yong-shang-jia-dao-shang-dian-ff1f.md)
       * [从商店购买应用](shang-dian/cong-shang-dian-gou-mai-ying-yong.md)
