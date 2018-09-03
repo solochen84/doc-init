@@ -28,7 +28,7 @@
         * [设置组件参数](she-ji/she-zhi-zu-jian-can-shu.md)
         * [组件高级配置](she-ji/zu-jian-gao-ji-pei-zhi.md)
         * [组件属性](she-ji/zu-jian-shu-xing.md)
-        * [组件参数](she-ji/shu-ru-shu-chu-can-shu.md)
+        * [组件参数详解](she-ji/shu-ru-shu-chu-can-shu.md)
     * [3.1.2编码](bian-ma.md)
       * [CloudIDE](bian-ma/cloudide.md)
     * [3.1.3发布](fa-bu.md)
