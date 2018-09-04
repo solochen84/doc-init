@@ -17,6 +17,7 @@
         * [代码组件](she-ji/dai-ma-zu-jian.md)
           * [GitHub账号支持](bang-ding-github.md)
           * [企业GitLab支持](bang-ding-qi-ye-gitlab.md)
+          * [Bitbucket支持](bitbucketzhi-chi.md)
           * [企业SVN支持](qi-ye-svn-zhi-chi.md)
           * [Git仓库地址支持](gitcang-ku-di-zhi-zhi-chi.md)
         * [镜像组件](she-ji/jing-xiang-zu-jian.md)
