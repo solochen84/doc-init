@@ -36,7 +36,11 @@ mysql：[https://github.com/huangzw1/mysql.git](https://github.com/huangzw1/mysq
 
 ![](/assets/import52.png)
 
-8.应用发布成功后，点击立即访问，或者查看配置，点击域名即可访问到您的应用。
+8.如果您需要在发布过程中查看发布的日志，那么您可以点击应用列表上的“运维监控”或者左侧菜单中的“运维”，再在组件的菜单中选择日志，来随时查看组件的发布情况。
+
+![](/assets/import59.png)
+
+9.应用发布成功后，点击立即访问，或者查看配置，点击域名即可访问到您的应用。
 
 ![](/assets/import57.png)
 

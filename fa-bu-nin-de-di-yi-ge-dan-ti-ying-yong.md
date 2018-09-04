@@ -52,7 +52,7 @@ requirements.txt
 flask
 ```
 
-2.将您的代码放在github上，您也可以选择我们为您准备好的示例代码：https://github.com/solochen84/ph.git
+2.将您的代码放在github上，您也可以选择我们为您准备好的示例代码：[https://github.com/solochen84/ph.git](https://github.com/solochen84/ph.git)
 
 3.新建项目
 
@@ -88,13 +88,15 @@ flask
 
 ![](/assets/import34.png)
 
-确定后应用进入发布状态，等待应用发布成功，即可访问
+6.确定后应用进入发布状态，等待应用发布成功，即可访问
 
 ![](/assets/import35.png)
 
-6.访问应用
+7.如果您需要在发布过程中查看发布的日志，那么您可以点击应用列表上的“运维监控”或者左侧菜单中的“运维”，再在组件的菜单中选择日志，来随时查看组件的发布情况。
 
-可在查看配置中点击域名，访问应用。
+![](/assets/import60.png)
+
+8.访问应用：可在查看配置中点击域名，访问应用。
 
 ![](/assets/import36.png)如果您事先写好了代码，那么仅需几分钟，您的应用就可以在行云上跑起来。
 
