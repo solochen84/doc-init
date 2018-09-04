@@ -38,3 +38,5 @@ mysql：[https://github.com/huangzw1/mysql.git](https://github.com/huangzw1/mysq
 
 8.应用发布成功后，点击立即访问，或者查看配置，点击域名即可访问到您的应用。
 
+![](/assets/import57.png)
+
