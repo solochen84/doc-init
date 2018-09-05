@@ -24,7 +24,7 @@
         * [外部组件](she-ji/wai-bu-zu-jian.md)
         * [网页组件](she-ji/wang-ye-zu-jian.md)
       * [3.1.1.3应用商店组件](she-ji/ying-yong-shang-dian-zu-jian.md)
-      * [3.1.1.3组件配置](she-ji/3113zu-jian-pei-zhi.md)
+      * [3.1.1.4组件配置](she-ji/3113zu-jian-pei-zhi.md)
         * [添加网络服务](she-ji/tian-jia-wang-luo-fu-wu.md)
         * [组件参数详解](she-ji/shu-ru-shu-chu-can-shu.md)
         * [设置组件参数](she-ji/she-zhi-zu-jian-can-shu.md)
