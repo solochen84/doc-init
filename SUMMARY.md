@@ -60,9 +60,6 @@
   * [4.3mysql设置多副本发布失败](chang-jian-wen-ti/43ru-he-she-zhi-zi-dong-fa-bu-ff1f.md)
   * [4.4如何部署应用到多云？](chang-jian-wen-ti/ru-he-bu-shu-ying-yong-dao-duo-yun-ff1f.md)
   * [4.5如何调整应用配额](chang-jian-wen-ti/ru-he-jiang-shu-ju-chi-jiu-hua-ff1f.md)
-  * [4.5如何版本升级（包含数据库升级）？](chang-jian-wen-ti/ru-he-ban-ben-sheng-ji-ff08-bao-han-shu-ju-ku-sheng-ji-ff09-ff1f.md)
-  * [4.6如何伸缩与自动伸缩？](chang-jian-wen-ti/ru-he-shen-suo-yu-zi-dong-shen-suo-ff1f.md)
-  * [4.7如何设置监控和告警？](chang-jian-wen-ti/ru-he-she-zhi-jian-kong-he-gao-jing-ff1f.md)
 * [Q&A](qanda.md)
 * [应用商店](shang-dian.md)
 
