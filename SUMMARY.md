@@ -43,6 +43,7 @@
       * [自动伸缩](yun-wei/zi-dong-shen-suo.md)
       * [Terminal](yun-wei/terminal.md)
       * [查看CPU等信息](yun-wei/cha-kan-cpu-deng-xin-xi.md)
+      * [开启临时访问地址](yun-wei/kai-qi-lin-shi-fang-wen-di-zhi.md)
       * [告警设置](yun-wei/gao-jing-she-zhi.md)
     * [3.1.6数据](shu-ju.md)
       * [什么是数据卷？](shu-ju/shi-yao-shi-shu-ju-juan-ff1f.md)
