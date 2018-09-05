@@ -3,12 +3,6 @@
 * [1.快速开始](README.md)
   * [1.1发布您的第一个单体应用](fa-bu-nin-de-di-yi-ge-dan-ti-ying-yong.md)
   * [1.2发布您的第一个多应用项目](fa-bu-nin-de-di-yi-ge-duo-ying-yong-xiang-mu.md)
-* [2.产品简介](chapter1.md)
-  * [2.1支持特性](chapter1/zhi-chi-te-xing.md)
-  * [2.2产品架构](chapter1/chan-pin-jia-gou.md)
-  * [2.3应用场景](chapter1/ying-yong-chang-jing.md)
-  * [2.4基本概念](chapter1/ji-ben-gai-nian.md)
-  * [2.5使用限制](chapter1/shi-yong-xian-zhi.md)
 * [3.用户指南](yong-hu-zhi-nan.md)
   * [3.1应用工厂](yong-hu-zhi-nan/ying-yong-gong-chang.md)
     * [3.1.1设计](she-ji.md)
@@ -62,4 +56,13 @@
   * [4.5如何调整应用配额](chang-jian-wen-ti/ru-he-jiang-shu-ju-chi-jiu-hua-ff1f.md)
 * [Q&A](qanda.md)
 * [应用商店](shang-dian.md)
+
+## 产品简介
+
+* [2.产品简介](chapter1.md)
+  * [2.1支持特性](chapter1/zhi-chi-te-xing.md)
+  * [2.2产品架构](chapter1/chan-pin-jia-gou.md)
+  * [2.3应用场景](chapter1/ying-yong-chang-jing.md)
+  * [2.4基本概念](chapter1/ji-ben-gai-nian.md)
+  * [2.5使用限制](chapter1/shi-yong-xian-zhi.md)
 
