@@ -2,7 +2,7 @@
 
 为了让您更快地掌握行云趣码这个系统的用法以及感受到它的独特魅力，下面我们一起从零搭建一个项目（此处以一个python hello world的demo为例），从编写代码开始，到应用发布到云端，再到测试，运维等等。
 
-1.将您的代码放在github上，您也可以选择我们为您准备好的示例代码：[https://github.com/solochen84/ph.git](https://github.com/solochen84/ph.git)
+1.将您的代码放在github上，您也可以选择我们为您准备好的示例代码：[https://github.com/solochen84/ph.git](https://github.com/solochen84/ph.git)。
 
 2.新建项目
 
