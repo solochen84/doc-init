@@ -52,7 +52,7 @@
 
 ![](/assets/import36.png)
 
-* **补充说明：**整个过程行云会将您的源代码打包成一个Docker镜像，并对这个Docker镜像进行发布（若您已经自行打了Docker镜像，也可以直接通过镜像来发布，方法见[1.3发布您的Docker镜像](/13fa-bu-nin-de-docker-jing-xiang.md)）。Dockerfile如下所示：
+* **补充说明：**整个过程行云会通过您编写的Dockerfile文件将您的源代码打包成一个Docker镜像，并对这个Docker镜像进行发布（若您已经自行打了Docker镜像，也可以直接通过镜像来发布，方法见[1.3发布您的Docker镜像](/13fa-bu-nin-de-docker-jing-xiang.md)）。Dockerfile如下所示：
 
 ```
 # 基础镜像信息
