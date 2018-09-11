@@ -20,7 +20,7 @@
 
 ![](/assets/import30.png)
 
-点击下一步，在Git仓库地址中填入您的github代码库的地址，也可以使用我们已为您准备好的代码：[https://github.com/solochen84/ph.git，并选择技术栈为Dockerfile](https://github.com/solochen84/ph.git，并选择技术栈为Dockerfile) in source；
+点击下一步，在Git仓库地址中填入您的github代码库的地址，也可以使用我们已为您准备好的代码：[https://github.com/solochen84/ph.git](https://github.com/solochen84/ph.git，并选择技术栈为Dockerfile)，选择技术栈为Dockerfile in source；
 
 ![](/assets/import31.png)
 
