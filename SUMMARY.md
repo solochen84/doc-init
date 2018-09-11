@@ -57,6 +57,12 @@
   * [4.2数据卷常见问题](chang-jian-wen-ti/ru-he-ji-cheng-jing-xiang-zu-jian-ff1f.md)
   * [4.3mysql设置多副本时发布失败](chang-jian-wen-ti/43ru-he-she-zhi-zi-dong-fa-bu-ff1f.md)
   * [4.4如何部署应用到多云？](chang-jian-wen-ti/ru-he-bu-shu-ying-yong-dao-duo-yun-ff1f.md)
-  * [4.5如何调整应用配额](chang-jian-wen-ti/ru-he-jiang-shu-ju-chi-jiu-hua-ff1f.md)
+  * [4.5如何调整应用配额？](chang-jian-wen-ti/ru-he-jiang-shu-ju-chi-jiu-hua-ff1f.md)
+  * [4.6如何设置自动发布？](chang-jian-wen-ti/46ru-he-she-zhi-zi-dong-fa-bu-ff1f.md)
+  * [4.7如何将数据持久化？](chang-jian-wen-ti/47ru-he-jiang-shu-ju-chi-jiu-hua-ff1f.md)
+  * [4.8如何进行版本升级？](chang-jian-wen-ti/ru-he-ban-ben-sheng-ji-ff1f.md)
+  * [4.9如何设置监控与告警？](chang-jian-wen-ti/49ru-he-she-zhi-jian-kong-yu-gao-jing-ff1f.md)
+  * [4.10如何自定义域名？](chang-jian-wen-ti/410ru-he-zi-ding-yi-yu-ming-ff1f.md)
+  * [4.11如何设置伸缩与自动伸缩？](chang-jian-wen-ti/411ru-he-she-zhi-shen-suo-yu-zi-dong-shen-suo-ff1f.md)
 * [Q&A](qanda.md)
 
