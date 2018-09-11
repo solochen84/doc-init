@@ -24,6 +24,8 @@
 
 点击下一步，在Git仓库地址中填入您的github代码库的地址，也可以使用我们已为您准备好的代码：[https://github.com/solochen84/ph.git](https://github.com/solochen84/ph.git，并选择技术栈为Dockerfile)，选择技术栈为Dockerfile in source；
 
+（**注：**因为选择的技术栈为Dockerfile in source，请保证源代码中根目录下包含Dockerfile文件）
+
 ![](/assets/import31.png)
 
 下一步，添加网络服务，协议为HTTP，并修改端口号为5000（程序中指定了端口号），再下一步，点击完成即可；
@@ -49,6 +51,8 @@
 可在查看配置中点击域名，访问应用。
 
 ![](/assets/import36.png)
+
+* **补充说明：**整个过程行云会将您的源代码打包成一个Docker镜像，并对这个Docker镜像进行发布（若您已经自行打了Docker镜像，也可以直接通过镜像来发布，方法见1.3发布您的Docker镜像）
 
 
 
