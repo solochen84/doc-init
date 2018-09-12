@@ -65,4 +65,5 @@
   * [4.10如何自定义域名？](chang-jian-wen-ti/410ru-he-zi-ding-yi-yu-ming-ff1f.md)
   * [4.11如何设置伸缩与自动伸缩？](chang-jian-wen-ti/411ru-he-she-zhi-shen-suo-yu-zi-dong-shen-suo-ff1f.md)
 * [Q&A](qanda.md)
+* [更新日志](geng-xin-ri-zhi.md)
 
