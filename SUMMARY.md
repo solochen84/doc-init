@@ -4,7 +4,6 @@
 * [快速开始](kuai-su-kai-shi.md)
   * [发布您的第一个单体应用](fa-bu-nin-de-di-yi-ge-dan-ti-ying-yong.md)
   * [发布您的第一个多应用项目](fa-bu-nin-de-di-yi-ge-duo-ying-yong-xiang-mu.md)
-  * [发布您的Docker镜像](13fa-bu-nin-de-docker-jing-xiang.md)
 * [产品简介](chapter1.md)
   * [支持特性](chapter1/zhi-chi-te-xing.md)
   * [产品架构](chapter1/chan-pin-jia-gou.md)
