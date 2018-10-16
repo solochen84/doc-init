@@ -57,12 +57,12 @@
   * [应用发布失败](chang-jian-wen-ti/ru-he-ji-cheng-di-san-fang-ying-yong-ff1f.md)
   * [mysql设置多副本时发布失败](chang-jian-wen-ti/43ru-he-she-zhi-zi-dong-fa-bu-ff1f.md)
   * [如何设置伸缩与自动伸缩？](chang-jian-wen-ti/411ru-he-she-zhi-shen-suo-yu-zi-dong-shen-suo-ff1f.md)
-  * [如何部署应用到多云？](chang-jian-wen-ti/ru-he-bu-shu-ying-yong-dao-duo-yun-ff1f.md)
+  * [如何实现多云调度？](chang-jian-wen-ti/ru-he-bu-shu-ying-yong-dao-duo-yun-ff1f.md)
   * [如何调整应用配额？](chang-jian-wen-ti/ru-he-jiang-shu-ju-chi-jiu-hua-ff1f.md)
   * [如何设置自动发布？](chang-jian-wen-ti/46ru-he-she-zhi-zi-dong-fa-bu-ff1f.md)
   * [如何将数据持久化？](chang-jian-wen-ti/47ru-he-jiang-shu-ju-chi-jiu-hua-ff1f.md)
   * [如何进行版本升级？](chang-jian-wen-ti/ru-he-ban-ben-sheng-ji-ff1f.md)
-  * 如何进行多云部署？
+  * [如何进行多云部署？](chang-jian-wen-ti/ru-he-jin-xing-duo-yun-bu-shu-ff1f.md)
 * [Q&A](qanda.md)
 * [更新日志](geng-xin-ri-zhi.md)
 
