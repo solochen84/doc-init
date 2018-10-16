@@ -62,6 +62,7 @@
   * [如何设置自动发布？](chang-jian-wen-ti/46ru-he-she-zhi-zi-dong-fa-bu-ff1f.md)
   * [如何将数据持久化？](chang-jian-wen-ti/47ru-he-jiang-shu-ju-chi-jiu-hua-ff1f.md)
   * [如何进行版本升级？](chang-jian-wen-ti/ru-he-ban-ben-sheng-ji-ff1f.md)
+  * 如何进行多云部署？
 * [Q&A](qanda.md)
 * [更新日志](geng-xin-ri-zhi.md)
 
