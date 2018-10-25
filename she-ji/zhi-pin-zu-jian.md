@@ -12,9 +12,9 @@
 
 ![](/assets/import100.png)
 
-**3、对制品组件进行相关配置，详情查看**[**组件配置**](/she-ji/3113zu-jian-pei-zhi.md)
+**3、对制品组件进行相关配置**
 
 ![](/assets/import101.png)
 
-**4、发布到云端，详情查看发布**[**手动发布**](/fa-bu/shou-dong-fa-bu.md)
+**4、发布到云端**
 
