@@ -23,6 +23,7 @@
         * [镜像组件](she-ji/jing-xiang-zu-jian.md)
         * [外部组件](she-ji/wai-bu-zu-jian.md)
         * [网页组件](she-ji/wang-ye-zu-jian.md)
+        * [制品组件](she-ji/zhi-pin-zu-jian.md)
       * [应用商店组件](she-ji/ying-yong-shang-dian-zu-jian.md)
       * [组件配置](she-ji/3113zu-jian-pei-zhi.md)
         * [添加网络服务](she-ji/tian-jia-wang-luo-fu-wu.md)
