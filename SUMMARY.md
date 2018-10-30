@@ -5,6 +5,7 @@
   * [发布您的第一个单体应用](fa-bu-nin-de-di-yi-ge-dan-ti-ying-yong.md)
   * [发布您的第一个多应用项目](fa-bu-nin-de-di-yi-ge-duo-ying-yong-xiang-mu.md)
   * [基于镜像发布您的应用](ji-yu-jing-xiang-fa-bu-nin-de-ying-yong.md)
+  * [使用应用商店组件从零搭建一个AI应用](shi-yong-ying-yong-shang-dian-zu-jian-cong-ling-da-jian-yi-ge-ai-ying-yong.md)
 * [产品简介](chapter1.md)
   * [支持特性](chapter1/zhi-chi-te-xing.md)
   * [产品架构](chapter1/chan-pin-jia-gou.md)
