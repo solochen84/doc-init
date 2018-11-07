@@ -4,7 +4,7 @@
 
 **1.准备代码**
 
-将您的代码放在github上，您也可以选择我们为您准备好的示例代码：[https://github.com/solochen84/ph.git](https://github.com/solochen84/ph.git)。
+将您的代码放在github上，您也可以选择我们为您准备好的示例代码：[https://github.com/huangzw1/ph.git](https://github.com/huangzw1/ph.git)。
 
 **2.新建项目**
 
