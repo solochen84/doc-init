@@ -67,4 +67,5 @@
   * [如何将数据持久化？](chang-jian-wen-ti/47ru-he-jiang-shu-ju-chi-jiu-hua-ff1f.md)
   * [如何进行版本升级？](chang-jian-wen-ti/ru-he-ban-ben-sheng-ji-ff1f.md)
   * [如何进行多云部署？](chang-jian-wen-ti/ru-he-jin-xing-duo-yun-bu-shu-ff1f.md)
+  * [如何进行资源限制？](chang-jian-wen-ti/ru-he-jin-xing-zi-yuan-xian-zhi-ff1f.md)
 
