@@ -39,7 +39,7 @@
       * [手动发布](fa-bu/shou-dong-fa-bu.md)
       * [自动发布](fa-bu/zi-dong-fa-bu.md)
       * [版本升级](fa-bu/ban-ben-sheng-ji.md)
-    * [测试](ce-shi.md)
+    * [自动化测试](ce-shi.md)
     * [运维](yun-wei.md)
       * [查看日志](yun-wei/cha-kan-ri-zhi.md)
       * [自动伸缩](yun-wei/zi-dong-shen-suo.md)
@@ -65,5 +65,4 @@
   * [如何将数据持久化？](chang-jian-wen-ti/47ru-he-jiang-shu-ju-chi-jiu-hua-ff1f.md)
   * [如何进行版本升级？](chang-jian-wen-ti/ru-he-ban-ben-sheng-ji-ff1f.md)
   * [如何进行多云部署？](chang-jian-wen-ti/ru-he-jin-xing-duo-yun-bu-shu-ff1f.md)
-* [Q&A](qanda.md)
 
