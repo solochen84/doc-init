@@ -39,7 +39,7 @@
       * [手动发布](fa-bu/shou-dong-fa-bu.md)
       * [自动发布](fa-bu/zi-dong-fa-bu.md)
       * [版本升级](fa-bu/ban-ben-sheng-ji.md)
-    * [自动化测试](ce-shi.md)
+    * [测试](ce-shi.md)
     * [运维](yun-wei.md)
       * [查看日志](yun-wei/cha-kan-ri-zhi.md)
       * [自动伸缩](yun-wei/zi-dong-shen-suo.md)
