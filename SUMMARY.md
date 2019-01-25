@@ -71,4 +71,5 @@
   * [如何进行资源限制？](chang-jian-wen-ti/ru-he-jin-xing-zi-yuan-xian-zhi-ff1f.md)
   * [如何映射配置文件？](chang-jian-wen-ti/ru-he-ying-she-pei-zhi-wen-jian-ff1f.md)
   * [如何为应用（mysql等）设置密码？](chang-jian-wen-ti/ru-he-wei-ying-yong-ff08-mysql-deng-ff09-she-zhi-mi-ma-ff1f.md)
+  * [如何搭建集群？](chang-jian-wen-ti/ru-he-da-jian-ji-qun-ff1f.md)
 
