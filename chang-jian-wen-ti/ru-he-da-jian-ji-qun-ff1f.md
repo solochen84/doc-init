@@ -14,9 +14,7 @@
 
 ![](/assets/import123.png)
 
-3.添加环境变量：添加MY\__POD\_NAME和RABBITMQ\__ERLANG_\_COOKIE。_并配置多副本，存储路径及服务名称。
+3.添加环境变量：添加MY\__POD\_NAME_和_RABBITMQ\_\_ERLANG_\_COOKIE。\_并配置多副本，存储路径及服务名称。
 
 ![](/assets/import124.png)
-
-
 
