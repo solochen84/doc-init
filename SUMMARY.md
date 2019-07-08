@@ -42,6 +42,7 @@
     * [测试](ce-shi.md)
       * [自动化测试](ce-shi/zi-dong-hua-ce-shi.md)
       * [测试报告](ce-shi/ce-shi-bao-gao.md)
+      * [新自动化测试](ce-shi/xin-zi-dong-hua-ce-shi.md)
     * [运维](yun-wei.md)
       * [查看日志](yun-wei/cha-kan-ri-zhi.md)
       * [自动伸缩](yun-wei/zi-dong-shen-suo.md)
